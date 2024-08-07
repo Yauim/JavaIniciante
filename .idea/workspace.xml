@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="593d076d-695b-4521-a6d5-0872bbd2c622" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gabriepaizante/EstruturaDeDecisao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gabriepaizante/EstruturaDeRepeticao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gabriepaizante/RepeticaoEDecisaoJuntos.java" afterDir="false" />
+    <list default="true" id="593d076d-695b-4521-a6d5-0872bbd2c622" name="Changes" comment="https://github.com/Yauim/JavaIniciante.git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +43,7 @@
     "Application.RepeticaoEDecisaoJuntos.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Gabriel",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/jasob/IdeaProjects/logica-de-programacao-basica/src/main/java/org/gabriepaizante/Main.java",
@@ -59,7 +51,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RunManager" selected="Application.RepeticaoEDecisaoJuntos">
@@ -119,6 +111,30 @@
       <option name="presentableId" value="Default" />
       <updated>1722570651047</updated>
     </task>
+    <task id="LOCAL-00001" summary="https://github.com/Yauim/JavaIniciante.git">
+      <option name="closed" value="true" />
+      <created>1723068137952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723068137952</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="https://github.com/Yauim/JavaIniciante.git" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://github.com/Yauim/JavaIniciante.git" />
   </component>
 </project>
